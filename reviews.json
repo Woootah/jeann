@@ -1,0 +1,34 @@
+[
+    {"name": "Godfrey Comiling", 
+     "image": "./testimonies/coms.jpg", 
+     "comment": "Ang galenggg!!!!"
+    },
+    {"name": "Julius Ben Ladin", 
+     "image": "./testimonies/julius.jpg", 
+     "comment": "Payb Star Habibi"
+    },
+    {"name": "Jan Hazel Parajes", 
+     "image": "./testimonies/hazel.jpg", 
+     "comment": "Nindot sya"
+    },
+    {"name": "Walter Kawaii", 
+     "image": "./testimonies/walz.jpg", 
+     "comment": "Apaka angas"
+    },
+    {"name": "Ricky Salada", 
+     "image": "./testimonies/rix.jpg", 
+     "comment": "Najiib Habibi Allahu Akbar"
+    },
+    {"name": "Jorgie De Almasen", 
+     "image": "./testimonies/jorjie.jpg", 
+     "comment": "Sheshhhh"
+    },
+    {"name": "Richelle Encendencia", 
+     "image": "./testimonies/chel.jpg", 
+     "comment": "Sibugi badii mo agi ang abtik"
+    },
+    {"name": "Kier Gerard Duria", 
+     "image": "./testimonies/durs.jpg", 
+     "comment": "maayo maayo"
+    }
+]
